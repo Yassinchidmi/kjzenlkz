@@ -1,0 +1,6 @@
+admin
+   login:
+         abdarrahmaneli1@gmail.com
+   Mot de passe:
+         123456789
+
